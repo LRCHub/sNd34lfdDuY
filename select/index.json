@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "base_track": "Bye For Now",
+  "base_artist": "T-BOLAN",
+  "createdAt": "2025-12-25T04:23:06.760367Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Bye for now,",
+      "artist": "Fujii Kaze",
+      "has_synced": true,
+      "path": "select/01_Bye_for_now,_Fujii_Kaze.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Bye for Now",
+      "artist": "Lagwagon",
+      "has_synced": true,
+      "path": "select/02_Bye_for_Now_Lagwagon.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Good-bye for Now",
+      "artist": "TVXQ",
+      "has_synced": true,
+      "path": "select/03_Good-bye_for_Now_TVXQ.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Bye for Now",
+      "artist": "Bravo Brothers",
+      "has_synced": true,
+      "path": "select/04_Bye_for_Now_Bravo_Brothers.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Bye for Now",
+      "artist": "Lagwagon",
+      "has_synced": true,
+      "path": "select/05_Bye_for_Now_Lagwagon.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Bye for Now",
+      "artist": "Lagwagon",
+      "has_synced": true,
+      "path": "select/06_Bye_for_Now_Lagwagon.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "それでは、 - Bye for now,",
+      "artist": "Fujii Kaze",
+      "has_synced": true,
+      "path": "select/07_それでは、_-_Bye_for_now,_Fujii_Kaze.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Bye For Now",
+      "artist": "Lagwagon",
+      "has_synced": true,
+      "path": "select/08_Bye_For_Now_Lagwagon.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Good bye for now",
+      "artist": "015B",
+      "has_synced": false,
+      "path": "select/09_Good_bye_for_now_015B.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Bye For Now",
+      "artist": "T-BOLAN",
+      "has_synced": true,
+      "path": "select/10_Bye_For_Now_T-BOLAN.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Good-bye for Now",
+      "artist": "TVXQ!",
+      "has_synced": true,
+      "path": "select/11_Good-bye_for_Now_TVXQ!.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Bye For Now",
+      "artist": "T-BOLAN",
+      "has_synced": false,
+      "path": "select/pl_01_Bye_For_Now_T-BOLAN.txt"
+    }
+  ]
+}
